@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Abhinav Singh 👋
 
-<!--
-**Abhinavsingh6557/Abhinavsingh6557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MCA Student (2024–2026) | Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I am passionate about Cloud Computing, DevOps, Automation, and AI-powered Infrastructure solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Linux
+- Docker
+- AWS
+- Git & GitHub
+- GitHub Actions
+- Python
+- Bash Scripting
+- FastAPI
+- Flask
+- Prometheus
+- Grafana
+
+## 🚀 Featured Projects
+
+### AI Cloud Cost Detective
+AWS cost optimization assistant that analyzes cloud billing reports and provides recommendations.
+
+### AI DevOps Log Analyzer
+AI-powered log analysis tool for detecting issues and generating insights.
+
+### Dockerized Flask CI/CD
+Containerized Flask application with automated testing and deployment using GitHub Actions.
+
+### Linux System Monitoring Tool
+Bash script for monitoring CPU, Memory, Disk Usage, Processes, and System Health.
+
+## 🌱 Currently Learning
+
+- AWS Cloud
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Terraform
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abhinav-singh-374ba3216
+- GitHub: https://github.com/Abhinavsingh6557
+
+⭐ Always learning, building, and sharing my DevOps journey.
