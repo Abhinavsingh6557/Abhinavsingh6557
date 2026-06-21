@@ -42,7 +42,7 @@ Bash script for monitoring CPU, Memory, Disk Usage, Processes, and System Health
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abhinav-singh-374ba3216
+- LinkedIn: https://www.linkedin.com/in/abhinavsingh6557/
 - GitHub: https://github.com/Abhinavsingh6557
 
 ⭐ Always learning, building, and sharing my DevOps journey.
